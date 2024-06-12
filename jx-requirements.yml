@@ -14,7 +14,7 @@ spec:
     registry: ghcr.io
   environments:
   - ingress:
-      domain: ""
+      domain: "mydomain.com"
       externalDNS: false
       namespaceSubDomain: ""
       tls:
